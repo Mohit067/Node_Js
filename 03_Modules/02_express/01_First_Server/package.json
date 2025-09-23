@@ -1,0 +1,17 @@
+{
+  "name": "02_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "html_tags.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
